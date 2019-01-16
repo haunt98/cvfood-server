@@ -1,0 +1,2 @@
+FLASK_APP=main.py
+DATABASE_URL=postgres://postgres:PASS@localhost:5432/cvlfood
